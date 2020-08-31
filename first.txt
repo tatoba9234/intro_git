@@ -1,3 +1,4 @@
 gitのテスト
 
 test
+git statusのテスト
