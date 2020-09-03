@@ -2,3 +2,4 @@ gitのテスト
 
 test
 git statusのテスト
+git diffの追加
