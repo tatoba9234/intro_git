@@ -3,3 +3,4 @@ gitのテスト
 test
 git statusのテスト
 git diffの追加
+git status -pのテスト
